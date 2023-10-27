@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1698252375 source:f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\src\address.cpp
+	"Address.h"
+
+1698252396 f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\include\address.h
+	<iostream>
+	<string>
+
+1698413059 source:f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\src\contact.cpp
+	"Contact.h"
+
+1698259997 f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\include\contact.h
+	"User.h"
+	<string>
+
+1698252375 source:f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\src\email.cpp
+	"Email.h"
+
+1698251798 f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\include\email.h
+	<iostream>
+	<string>
+
+1698251735 source:f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\src\phone.cpp
+	"Phone.h"
+
+1698251735 f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\include\phone.h
+	<iostream>
+	<string>
+
+1698268063 source:f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\src\user.cpp
+	"User.h"
+
+1698256780 f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\include\user.h
+	<iostream>
+	<string>
+	<ctime>
+	"Phone.h"
+	"Email.h"
+	"Address.h"
+
+1698262391 source:f:\back-end\oop\mahmoud a. mahdi\contact manager\contact manager\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Contact.h"
+
